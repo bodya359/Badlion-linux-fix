@@ -14,7 +14,7 @@ To path badlion, you need to do these steps:
 2. download Badlion-appimage [here](https://mikasukie.github.io/BadlionArchive/) or [here](https://github.com/MikaSukie/BadlionArchive)
 3. put Badlion-appimage and my script into one directory
 4. launch the script from terminal by `sudo chmod +x badlion-lunar-patcher.sh` and `./badlion-lunar-patcher.sh`
-5. then type 1 and paste your path to appimage, wait till the process ends, and you're good to go!
+5. then type 1 and paste your path to appimage, hit enter, wait till the process ends, and you're good to go!
 6. launch `BadlionClient-patched.AppImage`, wait till badlion loads. login to your Microsoft account, and play minecraft as usual.
 
 # Fixing problems
