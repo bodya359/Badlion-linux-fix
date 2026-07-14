@@ -5,7 +5,7 @@ A script that modifies badlion appimage by removing the "download lunar" tab. Te
 FOR EDUCATIONAL/DOCUMENTING PURPOSES ONLY.
 I'm isn't associated with mojang/moonsworth, nor mojang AB.
 
-After Lunar bought out Badlion, they added a bar that forces users to download their new "Lunar Client" launcher, most players like the old Badlion, On windows you can easily patch the update.yml faile url, to delete that tab, but on linux all files inside the appimage, and to make it easy, this open-source script gives you ability to patch the original appimage and remove this bar, and continue playing badlion without downloading lunar.
+After Lunar bought out Badlion, they added a bar that forces users to download their new "Lunar Client" launcher, most players will choose old Badlion instead of Lunar, On windows you can easily patch the app-update.yml, replacing `https://client-updates.badlion.net/moonsworth` to `https://example.com/` to delete that tab, but on linux all files inside the appimage, and to make it easy, i have done that script. this open-source little file, gives you ability to patch the original appimage and remove this "DOWNLOAD LUNAR!!!!!" bar, and continue playing badlion on linux.
 
 # Patching Badlion
 
